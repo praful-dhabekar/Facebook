@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Facebook</string>
+    <string name="login_un">Email or phone</string>
+    <string name="login_pwd">Password</string>
+    <string name="login_btn">LOG IN</string>
+    <string name="signup_link">Sign Up for Facebook</string>
+    <string name="forgot_pwd_link">Forgot Password?</string>
+    <string name="success">Login Successful</string>
+    <string name="failed">Login Failed</string>
+    <string name="uname">praful</string>
+    <string name="pwd">123</string>
+    <string name="title_activity_home">HomeActivity</string>
+
+
+</resources>
